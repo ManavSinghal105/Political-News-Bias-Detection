@@ -32,7 +32,7 @@ The goal is to show how different outlets report the same story with different p
 
 ---
 ## 📊 Results
-- **Bias Classifier:** Achieved ~79% accuracy on labeled political news dataset  
+- **Bias Classifier:** Achieved ~86% accuracy on labeled political news dataset  
 - **Clustering:** Groups semantically related articles into coherent clusters  
 - **Bias-Aware Boost:** Articles with same leaning cluster more strongly  
 
